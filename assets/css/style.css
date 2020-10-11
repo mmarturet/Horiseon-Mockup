@@ -125,7 +125,13 @@ h3 {
      bottom: 0;
      width: 100%;
      background-color: #d9dcd6
-     text-align: center;
+     color: black;
      font-family: Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans'
  }
+
+footer {
+    display: block;
+}
+
+
     
