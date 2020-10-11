@@ -120,18 +120,17 @@ h3 {
     font-size: 36px;
 }
 
- footer {
-     left: 0;
-     bottom: 0;
-     width: 100%;
-     background-color: #d9dcd6
-     color: black;
-     font-family: Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans'
- }
-
 footer {
-    display: block;
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+footer h2 {
+    font-size: 15px;
+}
 
-    
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
