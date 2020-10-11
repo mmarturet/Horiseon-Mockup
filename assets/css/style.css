@@ -36,12 +36,12 @@ header nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-header a {
+a {
     color: #ffffff;
     text-decoration: none;
 }
